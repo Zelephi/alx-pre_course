@@ -1,3 +1,4 @@
-"~"> .gitignore
-echo .gitignore
 cat .gitignore
+"~"/.gitignore
+echo .gitignore
+
